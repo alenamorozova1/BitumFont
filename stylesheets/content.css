@@ -1,0 +1,2281 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    background: white;
+    color: rgb(0, 0, 0);
+}
+
+h1{font-family: "Bitum"}
+h2{font-family: "Bitum"}
+h3{font-family: "Bitum"}
+h4{font-family: "Bitum"}
+h5{font-family: "Bitum"}
+h6{font-family: "Bitum"}
+p{font-family: "Bitum"}
+div{ font-family: "Bitum"}
+
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+}
+
+.first_block , .second_block , .third_block,.fourth_block, .seventh_block {
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+
+
+
+.container{
+    margin: 0 auto;
+}
+
+.t1{
+    position: absolute;
+    padding-left: 55px;
+    padding-top: 30px;
+    color: #000;
+    font-size: 33.304px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 3.83px;
+}
+
+.t2{
+    position: absolute;
+    padding-left: 950px;
+    padding-top: 30px;
+    color: #000;
+    font-size: 33.304px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 3.83px;
+}
+.t3{
+    position: absolute;
+    padding-left: 390px ;
+    padding-top: 710px;
+    color: white;
+    font-family: "BitumBold";
+    font-size: 164.992px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.t4{
+    position: absolute;
+    padding-left:150px ;
+    padding-top: 780px;
+    color: rgb(0, 0, 0);
+    font-family: "BitumBold";
+    font-size: 27.879px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 92.7%; /* 25.844px */
+    letter-spacing: -1.533px;
+}
+.t5{
+    position: absolute;
+    padding-left:1050px ;
+    padding-top: 780px;
+    color: rgb(0, 0, 0);
+    font-family: "BitumBold";
+    font-size: 27.879px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 92.7%; /* 25.844px */
+    letter-spacing: -1.533px;
+}
+
+.t6{
+    position: absolute;
+    padding-left:1055px ;
+    padding-top: 830px;
+    color: rgb(0, 0, 0);
+    font-family: "BitumBold";
+    font-size: 27.879px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 92.7%; /* 25.844px */
+    letter-spacing: -1.533px;
+}
+.t7{
+    position: absolute;
+    padding-left:155px ;
+    padding-top: 830px;
+    color: rgb(0, 0, 0);
+    font-family: "BitumBold";
+    font-size: 27.879px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 92.7%; /* 25.844px */
+    letter-spacing: -1.533px;
+}
+
+.second_block{ 
+    width: 100%;
+
+}
+
+.number1{
+    position: absolute;
+    width: 449px;
+    margin-left: 955px;
+    padding-top: 20px;
+    font-family: "BitumLight";
+    font-size: 400px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: -34px;
+    color: #FF4B00
+
+
+}
+
+.zag1{
+    padding-left:0px ;
+    padding-top: 80px;
+    color: #000;
+    font-family: "BitumBold";
+    font-size: 100px ;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.a1{
+    width: 760px;
+    padding-left:0px ;
+    padding-top: 20px;
+    color: #000;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.a2{
+    position: absolute;
+    padding-left: 0px;
+    padding-top: 90px;
+
+    color: #000;
+
+    font-size: 32.952px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.a3{
+    position: absolute;
+    padding-left: 430px;
+    padding-top: 90px;
+
+    color: #000;
+
+    font-size: 32.952px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+
+}
+
+.floor1{
+    position: absolute;
+    padding-left: 1110px;
+    padding-top: 50px;
+    color: #000;
+    font-family: "BitumLight";
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.a1ticket{
+    position: absolute;
+    padding-left: 250px;
+    padding-top: 650px;
+    color: rgb(255, 255, 255);
+
+    font-family: "BitumLight";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+
+}
+
+.ticket{
+    width: 100%;
+    padding-top: 230px;
+    max-width: 1280px;
+    margin: 0 auto;
+    border: 100px;
+}
+
+
+.container2{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.navigation{
+    width: 100%;
+    padding-top: 100px;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.g1{
+    position: absolute;
+    padding-left: 290px ;
+    padding-top: 100px ;
+    color: black;
+
+    font-family: "BitumLight";
+    font-size: 49.231px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.g2{
+position: absolute;
+padding-left: 550px;
+padding-top: 100px ;
+color: black;
+
+    font-family: "BitumLight";
+    font-size: 49.231px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.g3{
+    position: absolute;
+    padding-left: 1330px;
+    padding-top: 100px;
+    color: black;
+
+    font-family: "BitumLight";
+    font-size: 49.231px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+
+
+}
+
+.g4{
+    position: absolute;
+   
+    padding-top: 380px;
+    padding-left: 1220px;
+    color: black;
+
+    font-family: "BitumLight";
+    font-size: 49.231px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.a4{
+    position: absolute;
+    padding-left:680px ;
+    padding-top: 650px;
+    color: #ffffff;
+
+font-family: "Bitum";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.a5{
+    position: absolute;
+    padding-left: 1000px;
+    padding-top: 650px;
+    color: #ffffff;
+
+font-family: "Bitum";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.g5{
+    position: absolute;
+    padding-left:550px ;
+    padding-top: 570px;
+color: #000;
+
+font-family: "Bitum";
+font-size: 100px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.terminals{
+    display: flex;
+    width: 1280px;
+    padding-top: 190px;
+    margin: 0 auto;
+
+}
+
+.g6{
+    position: absolute;
+    padding-left:200px ;
+    padding-top: 780px ;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+
+
+.container3{
+    position: relative;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+
+}
+
+.boxes{
+    width: 100%;
+    padding-top: 400px;
+    
+    padding-right: 210px;
+    margin: 0 auto;
+    border: 100px;
+
+}
+
+.number2{
+    /* position: absolute; */
+    padding-left: 200px;
+    /* padding-top: 1450px; */
+    color: #FF4B00;
+
+font-family: "BitumLight";
+font-size: 400px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: -34px;
+}
+
+.floor2{
+/* position: absolute; */
+padding-left: 220px;
+margin-top: -100px;
+color: #000;
+font-family: "BitumLight";
+font-size: 70px;
+font-style: normal;
+font-weight: 300;
+
+}
+
+.zag2{
+    position: absolute;
+    padding-left: 110px ;
+    padding-top: 90px ;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.b1{
+    position: absolute;
+    padding-left: 120px;
+    padding-top: 240px;
+    color: #000;
+font-family: "Bitum";
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+
+.exReg{
+    position: absolute;
+    padding-left:470px ;
+    padding-top:405px ;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 89.031px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.exBold{
+    position: absolute;
+    padding-left:480px ;
+    padding-top:565px ;
+    color: #000;
+    font-family: "BitumBold";
+font-size: 89.031px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.exLight{
+    position: absolute;
+    padding-left: 480px;
+    padding-top:725px;
+    color: #000;
+    font-family: "BitumLight";
+font-size: 89.031px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.exRegIt{
+    position: absolute;
+    padding-left: 60px;
+    padding-top:405px;
+    color: #000;
+
+font-family: "Bitum-Italic";
+font-size: 89.031px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+}
+
+.exBoldIt{
+    position: absolute;
+    padding-left: 60px;
+    padding-top:565px;
+    color: #000;
+
+font-family: "Bitum-BoldItalic";
+font-size: 89.031px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+}
+
+.exLightIt{
+    position: absolute;
+    padding-left: 60px;
+    padding-top:725px;
+    color: #000;
+
+font-family: "Bitum-LightItalic";
+font-size: 89.031px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+    
+}
+
+.long_boxes{
+    width: 100%;
+    padding-top: 100px;
+    max-width: 1280px;
+    margin: 0 auto;
+    border: 100px;
+}
+
+.c1{
+    position: absolute;
+    padding-left: 160px;
+    padding-top: 120px ;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 65.267px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.c2{
+    position: absolute;
+    padding-left: 870px;
+    padding-top: 90px;
+    color: #ffffff;
+font-family: "BitumBold";
+font-size: 124.615px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.c3{
+    position: absolute;
+    padding-left: 155px;
+    padding-top: 320px ;
+    color: #000;
+
+font-family: "Bitum-BoldItalic";
+font-size: 65.267px;
+font-style: italic;
+font-weight: 700;
+line-height: 102.2%;
+}
+
+.c4{
+    position: absolute;
+    padding-left: 155px;
+    padding-top: 380px;
+    color: #000;
+font-family: "BitumBold";
+font-size: 65.267px;
+font-style: normal;
+font-weight: 700;
+line-height: 102.2%;
+}
+
+.c5{
+    position: absolute;
+    padding-left: 870px;
+    padding-top: 305px;
+    color: #ffffff;
+
+font-family: "BitumBold";
+font-size: 124.615px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.c6{
+    position: absolute;
+    padding-left: 1005px;
+    padding-top: 305px;
+    color: #ffffff;
+
+font-family: "Bitum-BoldItalic";
+font-size: 124.615px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.c7{
+    position: absolute;
+    padding-left: 1170px;
+    padding-top: 305px;
+    color: #ffffff;
+
+font-family: "BitumBold";
+font-size: 124.615px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.c8{
+    position: absolute;
+    padding-left: 1175px;
+    padding-top: 500px;
+    color: #ffffff;
+
+font-family: "BitumBold";
+font-size: 124.615px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.fifth_block{
+    width: 100%;
+ 
+}
+
+.container4{
+    position: relative;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    border: 100px;
+}
+
+.parking{
+    width: 100%;
+    padding-top: 600px;
+    padding-right: 2000px;
+    max-width: 1280px;
+    margin: 0 auto;
+    border: 100px;
+}
+
+.n1{
+    position: absolute;
+    padding-left: 90px;
+    padding-top: 580px;
+    color: #ffffff;
+
+font-family: "BitumLight";
+font-size: 347.916px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: -29.573px;
+}
+
+.n2{
+    position: absolute;
+    padding-left: 490px;
+    padding-top: 580px;
+    color: #FFF;
+
+font-family: "BitumLight";
+font-size: 347.916px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: -29.573px;
+}
+
+.n3{
+    position: absolute;
+    padding-left: 920px;
+    padding-top: 580px;
+    color: #FFF;
+
+font-family: "BitumLight";
+font-size: 347.916px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: -29.573px;
+}
+
+.n4{
+    position: absolute;
+    padding-left: 50px;
+    padding-top: 1010px;
+    color: #000;
+
+font-family: "BitumLight";
+font-size: 86.979px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.n5{
+    position: absolute;
+    padding-left: 470px;
+    padding-top: 1010px;
+    color: #000;
+
+font-family: "BitumLight";
+font-size: 86.979px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.n6{
+    position: absolute;
+    padding-left: 910px;
+    padding-top: 1010px;
+    color: #000;
+
+font-family: "BitumLight";
+font-size: 86.979px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+
+.n7{
+    position: absolute;
+    padding-left:315px ;
+    padding-top: 1335px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.n8{
+    position: absolute;
+    padding-left:620px ;
+    padding-top: 1335px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.n9{
+    position: absolute;
+    padding-left:1130px ;
+    padding-top: 1335px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.departure{
+    width: 100%;
+    padding-top: 150px;
+    padding-right: 2000px;
+    max-width: 1280px;
+    margin: 0 auto;
+    border: 100px;
+
+}
+
+.n10{
+    position: absolute;
+    padding-left:185px ;
+    padding-top: 2150px;
+    color: rgb(255, 255, 255);
+
+font-family: "BitumBold";
+font-size: 136.923px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.n11{
+    position: absolute;
+    padding-left:100px ;
+    padding-top: 2345px;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.n12{
+    position: absolute;
+    padding-left: 480px;
+    padding-top: 2345px ;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.n13{
+    position: absolute;
+    padding-left: 1105px;
+    padding-top:2345px ;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    
+}
+
+.number3{
+    position: absolute;
+    padding-top:30px ;
+    padding-left: 880px;
+    color: #FF4B00;
+
+font-family: "BitumLight";
+font-size: 400px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: -34px;
+}
+
+.zag3{
+    position: absolute;
+    padding-left: 0px ;
+    padding-top: 100px ;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.n14{
+    position: absolute;
+    max-width: 522px;
+    padding-left: 0px;
+    padding-top: 250px;
+    color: #000;
+font-family: "Bitum";
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.floor3{
+    position: absolute;
+    padding-left: 1110px;
+    padding-top: 450px;
+    color: #000;
+
+font-family: "BitumLight";
+font-size: 70px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+
+.sixth_block{
+    width: 100%;
+    
+
+}
+
+.container5{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+     
+    
+    
+}
+
+.ams{
+    
+    width: 100%;
+    padding-top: 540px;
+    padding-left: 140px;
+    max-width: 1440px;
+    border: 100px;
+
+}
+
+.number4{
+    position: absolute;
+    padding-top:30px ;
+    padding-left: 190px;
+    color: #FF4B00;
+
+font-family: "BitumLight";
+font-size: 400px;
+font-style: normal;
+font-weight: 300;
+letter-spacing: -34px;
+}
+
+.floor4{
+    position: absolute;
+    padding-left: 200px;
+    padding-top: 380px;
+    color: #000;
+
+font-family: "BitumLight";
+font-size: 70px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.zag4{
+    position: absolute;
+    padding-left: 800px ;
+    padding-top: 50px ;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.o1{
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 200px ;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.o2{
+    position:absolute ;
+    padding-left:650px ;
+    padding-top:550px ;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 18.182px;
+font-style: normal;
+font-weight: 400;
+line-height: 173.7%;
+}
+
+.o3{
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 602px;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: 150.2%;
+}
+
+.o4{
+    position:absolute ;
+    padding-left:310px ;
+    padding-top:1090px ;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 18.182px;
+font-style: normal;
+font-weight: 400;
+line-height: 173.7%;
+}
+
+.o5{
+    position: absolute;
+    padding-left: 485px;
+    padding-top: 1075px;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: 150.2%;
+
+}
+
+.o6{
+    position:absolute ;
+    padding-left:1150px ;
+    padding-top:1350px ;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 18.182px;
+font-style: normal;
+font-weight: 400;
+line-height: 173.7%;
+}
+
+.o7{
+    position: absolute;
+    padding-left: 1320px;
+    padding-top: 1370px;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: 150.2%;
+
+}
+
+.ams2{
+    width: 100%;
+    padding-top: 100px;
+    padding-left: 220px;
+    max-width: 1280px;
+    border: 100px;
+
+}
+
+.o8{
+    position: absolute;
+    padding-left:240px ;
+    padding-top: 1540px;
+    color: #ffffff;
+
+font-family: "BitumLight";
+font-size: 49.231px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.nona{
+    
+    height: 1000px;
+}
+
+.o9{
+    position: absolute;
+    padding-left:790px ;
+    padding-top: 1540px;
+    color: #ffffff;
+
+font-family: "BitumLight";
+font-size: 49.231px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.o10{
+    position: absolute;
+    padding-left:1090px ;
+    padding-top: 1540px;
+    color: #ffffff;
+
+font-family: "BitumLight";
+font-size: 49.231px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+
+.container6{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.number5{
+    position: absolute;
+    padding-left:200px;
+    padding-top: 50px ;
+    color: #FF4B00;
+
+font-family: "BitumLight";
+font-size: 400px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: -34px;
+}
+
+.floor5{
+    position: absolute;
+    padding-left:220px ;
+    padding-top: 470px;
+    color: #000;
+
+font-family: "BitumLight";
+font-size: 70px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.zag5{
+    position: absolute;
+    padding-left: 1015px;
+    padding-top: 150px;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: 94.2%;
+}
+
+.w1{
+    position: absolute;
+    padding-left:1020px ;
+    padding-top:390px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.alfavit{
+    width: 100%;
+    padding-top:680px;
+    padding-left: 220px;
+    max-width: 1280px;
+
+}
+
+.w2{
+    position: absolute;
+    padding-left: 232px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w3{
+    position: absolute;
+    padding-left: 315px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+
+}
+
+.w4{
+    position: absolute;
+    padding-left: 400px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+
+}
+.w5{
+    position: absolute;
+    padding-left: 485px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w6{
+    position: absolute;
+    padding-left: 570px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w7{
+    position: absolute;
+    padding-left: 660px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w8{
+    position: absolute;
+    padding-left: 740px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w9{
+    position: absolute;
+    padding-left: 930px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w10{
+    position: absolute;
+    padding-left: 1010px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w11{
+    position: absolute;
+    padding-left: 1170px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w12{
+    position: absolute;
+    padding-left: 1238px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w13{
+    position: absolute;
+    padding-left: 1330px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w14{
+    position: absolute;
+    padding-left: 1420px;
+    padding-top: 705px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w15{
+    position: absolute;
+    padding-left: 232px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w16{
+    position: absolute;
+    padding-left: 315px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w17{
+    position: absolute;
+    padding-left: 405px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w18{
+    position: absolute;
+    padding-left: 485px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w19{
+    position: absolute;
+    padding-left: 655px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w20{
+    position: absolute;
+    padding-left: 740px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w21{
+    position: absolute;
+    padding-left: 816px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w22{
+    position: absolute;
+    padding-left: 1000px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w23{
+    position: absolute;
+    padding-left: 1080px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w24{
+    position: absolute;
+    padding-left: 1165px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w25{
+    position: absolute;
+    padding-left: 1270px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w26{
+    position: absolute;
+    padding-left: 1350px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w27{
+    position: absolute;
+    padding-left: 1435px;
+    padding-top: 785px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w28{
+    position: absolute;
+    padding-left: 245px;
+    padding-top: 875px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w29{
+    position: absolute;
+    padding-left: 590px;
+    padding-top: 875px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w30{
+    position: absolute;
+    padding-left: 1330px;
+    padding-top: 875px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w31{
+    position: absolute;
+    padding-left: 240px;
+    padding-top: 1040px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w32{
+    position: absolute;
+    padding-left: 1020px;
+    padding-top: 1040px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w33{
+    position: absolute;
+    padding-left: 1100px;
+    padding-top: 1040px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w34{
+    position: absolute;
+    padding-left: 1185px;
+    padding-top: 1040px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w35{
+    position: absolute;
+    padding-left: 1270px;
+    padding-top: 1040px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w36{
+    position: absolute;
+    padding-left: 1370px;
+    padding-top: 1040px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w37{
+    position: absolute;
+    padding-left: 1440px;
+    padding-top: 1040px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w38{
+    position: absolute;
+    padding-left: 575px;
+    padding-top: 1130px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w39{
+    position: absolute;
+    padding-left: 910px;
+    padding-top: 1130px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w40{
+    position: absolute;
+    padding-left: 1260px;
+    padding-top: 1130px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w41{
+    position: absolute;
+    padding-left: 1435px;
+    padding-top: 1130px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w42{
+    position: absolute;
+    padding-left: 760px;
+    padding-top: 1215px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w43{
+    position: absolute;
+    padding-left: 845px;
+    padding-top: 1215px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w44{
+    position: absolute;
+    padding-left: 1100px;
+    padding-top: 1215px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w45{
+    position: absolute;
+    padding-left: 590px;
+    padding-top: 1300px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w46{
+    position: absolute;
+    padding-left: 675px;
+    padding-top: 1300px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w47{
+    position: absolute;
+    padding-left: 1020px;
+    padding-top: 1300px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w48{
+    position: absolute;
+    padding-left: 1440px;
+    padding-top: 1300px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.w49{
+    position: absolute;
+    padding-left: 330px;
+    padding-top: 1380px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w50{
+    position: absolute;
+    padding-left: 930px;
+    padding-top: 1390px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w51{
+    position: absolute;
+    padding-left: 505px;
+    padding-top: 1470px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%; 
+}
+.w52{
+    position: absolute;
+    padding-left: 1020px;
+    padding-top: 1460px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w53{
+    position: absolute;
+    padding-left: 420px;
+    padding-top: 1550px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%; 
+}
+
+.w54{
+    position: absolute;
+    padding-left: 760px;
+    padding-top: 1550px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.w55{
+    position: absolute;
+    padding-left: 1270px;
+    padding-top: 1550px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+
+.eighth_block{
+    width: 100%;
+
+}
+
+.container7{
+    position: relative;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    
+}
+
+.number6{
+    position: absolute;
+    padding-left:0px;
+    padding-top: 40px ;
+    color: #FF4B00;
+
+font-family: "BitumLight";
+font-size: 400px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: -34px;
+}
+
+.floor6{
+    position: absolute;
+    padding-left:30px ;
+    padding-top: 460px;
+    color: #000;
+
+font-family: "BitumLight";
+font-size: 70px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.bilet1{
+    width: 100%;
+    padding-top:650px;
+    padding-left: 60px;
+    max-width: 1280px;
+}
+.zag6{
+    position: absolute;
+    padding-left:650px ;
+    padding-top:130px ;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: 94%;
+}
+
+.x1{
+    position: absolute;
+    padding-left: 670px;
+    padding-top: 380px;
+    color: #000;
+
+font-family: "Bitum";
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.x2{
+    position: absolute;
+    padding-left:480px ;
+    padding-top: 670px;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.45px;
+}
+
+.x3{
+    position: absolute;
+    padding-left:100px ;
+    padding-top: 885px;
+
+    color: #FFF;
+font-family: "BitumBold";
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 13.75px;
+}
+.x4{
+    position: absolute;
+    padding-left:350px ;
+    padding-top: 1000px;
+    color: #000;
+font-family: "BitumBold";
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.1px;
+}
+.x5{
+    position: absolute;
+    padding-left:550px ;
+    padding-top: 1000px;
+    color: #000;
+font-family: "BitumBold";
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.1px;
+}
+
+.x6{
+    position: absolute;
+    padding-left:360px ;
+    padding-top: 1030px;
+    color: #000;
+font-family: "BitumBold";
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.1px;
+}
+
+.x7{
+    position: absolute;
+    padding-left:560px ;
+    padding-top: 1030px;
+    color: #000;
+font-family: "BitumBold";
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.1px;
+}
+
+.x8{
+    position: absolute;
+    padding-left:280px ;
+    padding-top: 1590px;
+    color: #000;
+font-family: "Bitum";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.65px;
+}
+.x9{
+    position: absolute;
+    padding-left:785px ;
+    padding-top: 960px;
+    color: #000;
+font-family: "BitumLight";
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 13.75px;
+}
+.x10{
+    position: absolute;
+    padding-left:765px ;
+    padding-top: 1050px;
+    color: #FFF;
+font-family: "BitumLight";
+font-size: 100px;
+font-style: normal;
+font-weight: 300;
+line-height: 98.7%; /* 98.7px */
+letter-spacing: 15px;
+}
+.x11{
+    position: absolute;
+    padding-left:780px ;
+    padding-top: 1470px;
+    color: #FF4B00;
+
+font-family:"BitumBold";
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 2.55px;
+}
+.navigation2{
+    width: 100%;
+    padding-top:150px;
+    padding-left: 0px;
+    max-width: 1280px;
+}
+.m1{
+    position: absolute;
+    padding-left:190px ;
+    padding-top: 170px;
+    color: #FF4B00;
+
+font-family: "BitumBold";
+font-size: 75.647px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.m2{
+    position:absolute;
+    padding-left: 920px;
+    padding-top: 170px;
+    color: #FFF;
+
+    font-family: "BitumBold";
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 115.7%;
+}
+.m3{
+    position: absolute;
+    padding-left: 920px;
+    padding-top:210px ;
+    color: #FFF;
+font-family: "BitumLight";
+font-size: 35px;
+font-style: normal;
+font-weight: 300;
+line-height: 115.7%;
+}
+.m4{
+    position: absolute;
+    padding-top: 250px;
+    padding-left:920px ;
+    color: #FFF;
+font-family: "Bitum";
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+line-height: 115.7%;
+}
+.m5{
+    position: absolute;
+    padding-top: 370px;
+    padding-left:100px ;
+    color: #FFF;
+
+font-family: "BitumBold";
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: 115.7%;
+}
+
+.m6{
+    position: absolute;
+    padding-left:100px ;
+    padding-top: 413px;
+    color: #FFF;
+font-family: "BitumLight";
+font-size: 35px;
+font-style: normal;
+font-weight: 300;
+line-height: 115.7%;
+}
+
+.m7{
+    position: absolute;
+    padding-left:100px ;
+    padding-top: 455px;
+    color: #FFF;
+font-family: "Bitum";
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+line-height: 115.7%;
+}
+.m8{
+    position: absolute;
+    padding-left:900px;
+    padding-top: 370px;
+    color: #FFF;
+font-family: "BitumBold";
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: 115.7%; 
+}
+.m9{
+    position: absolute;
+    padding-left:900px;
+    padding-top: 415px;
+    color: #FFF;
+font-family: "BitumLight";
+font-size: 35px;
+font-style: normal;
+font-weight: 300;
+line-height: 115.7%;
+}
+.m10{
+    position: absolute;
+    padding-left:900px;
+    padding-top: 460px;
+    color: #FFF;
+font-family: "BitumBold";
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 115.7%;
+}
+.m11{
+    position: absolute;
+    padding-left: 200px;
+    padding-top: 590px;
+    color: #FFF;
+
+font-family: Bitum;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: 115.7%;
+}
+.m12{
+    position: absolute;
+    padding-left: 200px;
+    padding-top: 630px;
+    color: #FFF;
+font-family: "BitumLight";
+font-size: 35px;
+font-style: normal;
+font-weight: 300;
+line-height: 115.7%;
+}
+.m13{
+    position: absolute;
+    padding-left: 200px;
+    padding-top: 675px;
+    color: #FFF;
+font-family: "Bitum";
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+line-height: 115.7%;
+}
+.m14{
+    position: absolute;
+    padding-left: 695px;
+    padding-top: 575px;
+    color: #000;
+
+font-family: "BitumBold";
+font-size: 150px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.AB{
+    width: 100%;
+    padding-top:120px;
+    padding-left: 130px;
+    max-width: 1280px;
+}
+.m15{
+    position: absolute;
+    padding-left: 0px;
+    padding-top: 120px;
+    color: #000;
+font-family: "BitumBold";
+font-size: 400px;
+font-style: normal;
+font-weight: 700;
+line-height: 92.2%;
+}
+.m16{
+    position: absolute;
+    padding-left: 1030px;
+    padding-top: 120px;
+    color: #000;
+font-family: "BitumBold";
+font-size: 400px;
+font-style: normal;
+font-weight: 700;
+line-height: 92.2%;
+}
+.m17{
+    position: absolute;
+    padding-left: 0px;
+    padding-top: 150px;
+    color: #ffffff;
+font-family: "Bitum";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.m18{
+    width: 100%;
+    padding-top:100px;
+    margin-left:  -80px;
+    max-width: 1280px;
+}
+.m19{
+    position: absolute;
+    padding-left: 570px;
+    padding-top: 150px;
+    color: #ffffff;
+font-family: "Bitum";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}
+.m20{
+    position: absolute;
+    padding-left: 1150px;
+    padding-top: 150px;
+    color: #ffffff;
+font-family: "Bitum";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 92.2%;
+}

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "BitumLight";
+    src: url("../fonts/BitumLight.ttf") format("truetype");
+    font-style: Light;
+    font-weight: Light;
+}
+@font-face {
+    font-family: "BitumBold";
+    src: url("../fonts/BitumBold.ttf") format("truetype");
+    font-style: bold;
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Bitum";
+    src: url("../fonts/Bitum.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Bitum-LightItalic";
+    src: url("../fonts/Bitum-LightItalic.ttf") format("truetype");
+    font-style: Light italic;
+    font-weight: light italic; 
+}
+@font-face {
+    font-family: "Bitum-Italic";
+    src: url("../fonts/Bitum-Italic.ttf") format("truetype");
+    font-style: normal italic;
+    font-weight: italic; 
+}
+@font-face {
+    font-family: "Bitum-BoldItalic";
+    src: url("../fonts/Bitum-BoldItalic.ttf") format("truetype");
+    font-style: bold italic;
+    font-weight: bold italic; 
+}
